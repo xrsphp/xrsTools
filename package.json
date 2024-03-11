@@ -1,0 +1,20 @@
+{
+  "name": "xrstools",
+  "version": "1.0.0",
+  "description": "some tools for build the CMS manage page",
+  "main": "index.js",
+  "repository": "https://github.com/xrsphp/xrsTools.git",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tools",
+    "cms",
+    "CMS"
+  ],
+  "author": "oink0625",
+  "license": "ISC",
+  "dependencies": {
+    "oink-format": "^1.5.6"
+  }
+}
